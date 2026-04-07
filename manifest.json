@@ -1,0 +1,28 @@
+{
+  "name": "سيارتي - تطبيق صيانة السيارة",
+  "short_name": "سيارتي",
+  "description": "تطبيق لمتابعة صيانة سيارتك وتسجيل القراءات والوقود",
+  "start_url": "./siyarti.html",
+  "display": "standalone",
+  "background_color": "#0F0F1A",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "lifestyle"],
+  "screenshots": []
+}
